@@ -2,7 +2,8 @@
 
 #debut du script
 
-echo "hello world"
+val_to_print=$1
+echo $val_to_prello
 
 #fin du script
 
